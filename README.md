@@ -1,9 +1,9 @@
 ### System.out.println("Hello World!");
 
-- 👨🏻‍🎓  Graduated in Computer Science and a master’s degree in Distributed Systems
-- 💻  Software & Data Engineer with several years of experience building large scale systems
-- 🤖  Multiple programming languages such as C#, Python and Java
-- 💾  SQL, NoSQL, Columnar and in memory databases such as SQL Server, MongoDb, Redshift and Redis
+- 👨🏻‍🎓  &nbsp; Graduated in Computer Science and a master’s degree in Distributed Systems
+- 💻  &nbsp; Software & Data Engineer with several years of experience building large scale systems
+- 🤖  &nbsp; Multiple programming languages such as C#, Python and Java
+- 💾  &nbsp; SQL, NoSQL, Columnar and in memory databases such as SQL Server, MongoDb, Redshift and Redis
 
  <div>
   <a href="https://github.com/brenoriba">
