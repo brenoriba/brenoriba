@@ -1,9 +1,9 @@
 ### Hello World! 👋
 
 - 👨🏻‍🎓 Graduated in Computer Science and a master’s degree in Distributed Systems
-- 💻 Software & Data Engineer with several years of experience with large scale systems
-- 🤖 Have been working with cloud providers such as AWS, multiple programming languages as C#, Python and Java
-- 💾 CI/CD tools and also a wide range of SQL and NoSQL databases such as SQL Server, MongoDb and Redis
+- 💻 Software & Data Engineer with several years of experience building large scale systems
+- 🤖 ultiple programming languages as C#, Python and Java
+- 💾 SQL and NoSQL databases such as SQL Server, MongoDb and Redis
 
  <div>
   <a href="https://github.com/brenoriba">
