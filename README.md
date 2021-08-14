@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello World! 👋
 
-<!--
-**brenoriba/brenoriba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍🎓 Graduated in Computer Science and a master’s degree in Distributed Systems
+- 💻 Software & Data Engineer with several years of experience with large scale systems
+- 🤖 Have been working with cloud providers such as AWS, multiple programming languages as C#, Python and Java
+- 💾 CI/CD tools and also a wide range of SQL and NoSQL databases such as SQL Server, MongoDb and Redis
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+  <a href="https://github.com/brenoriba">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenoriba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoriba&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+ ##
+  
+  <div> 
+  <a href="https://www.linkedin.com/in/brenoriba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
