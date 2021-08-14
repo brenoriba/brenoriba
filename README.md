@@ -2,7 +2,7 @@
 
 - 👨🏻‍🎓 Graduated in Computer Science and a master’s degree in Distributed Systems
 - 💻 Software & Data Engineer with several years of experience building large scale systems
-- 🤖 ultiple programming languages as C#, Python and Java
+- 🤖 Multiple programming languages as C#, Python and Java
 - 💾 SQL and NoSQL databases such as SQL Server, MongoDb and Redis
 
  <div>
