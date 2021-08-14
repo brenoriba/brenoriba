@@ -3,7 +3,7 @@
 - 👨🏻‍🎓 Graduated in Computer Science and a master’s degree in Distributed Systems
 - 💻 Software & Data Engineer with several years of experience building large scale systems
 - 🤖 Multiple programming languages such as C#, Python and Java
-- 💾 SQL and NoSQL databases such as SQL Server, MongoDb and Redis
+- 💾 SQL, NoSQL, Columnar and in memory databases such as SQL Server, MongoDb, Redshift and Redis
 
  <div>
   <a href="https://github.com/brenoriba">
