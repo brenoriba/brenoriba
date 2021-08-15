@@ -1,5 +1,3 @@
-### System.out.println("Hello World!");
-
 - 👨🏻‍🎓  &nbsp; Graduated in Computer Science and a master’s degree in Distributed Systems
 - 💻  &nbsp; Software & Data Engineer with several years of experience building large scale systems
 - 🤖  &nbsp; Multiple programming languages such as C#, Python and Java
